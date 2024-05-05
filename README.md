@@ -2,7 +2,7 @@
 <h3 align="center">video-PIP-Instagram</h3>
 
 <!-- Profile View Count -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bibek10550&label=Profile%20views&color=0e75b6&style=flat" alt="Bibek Chand Sah (BCS)" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bibek10550video-PIP-Instagram&label=Profile%20views&color=0e75b6&style=flat" alt="Bibek Chand Sah (BCS)" /> </p>
 
 ## Website
 <h1>👉🏻 <a href="https://bibek10550.github.io/video-PIP-Instagram/">video-PIP-Instagram</a></h1>
